@@ -7,10 +7,10 @@
 # If you're trying out Bolt, just keep it set to SQLite for now.
 database:
     driver: sqlite
-    databasename: bolt
+    databasename: john
 
 # The name of the website
-sitename: A sample site
+sitename: John
 payoff: The amazing payoff goes here
 
 # The theme to use. Be sure to copy the {theme_path}/base-2014 folder, and
@@ -29,7 +29,7 @@ theme: base-2014
 #
 # This can be done as [nl_NL, Dutch_Netherlands] when specifying multiple
 # locales, ensure the first is a standard locale.
-locale: en_GB
+locale: es_ES
 #timezone: UTC
 
 # Set maintenance mode on or off.
